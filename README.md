@@ -107,7 +107,7 @@ rolling-stone-albums-powerbi/
   - genre_trend_line_chart.png
   - artist_album_table.png
   - full_dashboard_screenshot.png
-README.md
+- README.md
 
 ---
 
