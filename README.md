@@ -101,6 +101,7 @@ As musical landscapes continue to shift, this dashboard captures an insightful s
 
 rolling-stone-albums-powerbi/
 - data/rolling_stone_500_cleaned.csv
+- docs/project_description.docx
 - pbix/rolling_stone_dashboard.pbix
 - visuals/
   - genre_pie_chart.png
