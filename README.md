@@ -100,17 +100,27 @@ As musical landscapes continue to shift, this dashboard captures an insightful s
 ## 📁 Project Structure
 
 rolling-stone-albums-powerbi/
-│
-├── data/
-│ └── rolling_stone_500_cleaned.csv
-│
-├── pbix/
-│ └── rolling_stone_dashboard.pbix
-│
-├── visuals/
-│ └── genre_pie_chart.png
-│ └── genre_trend_line_chart.png
-│ └── artist_album_table.png
-│ └── full_dashboard_screenshot.png
-│
-└── README.md
+- data/rolling_stone_500_cleaned.csv
+- pbix/rolling_stone_dashboard.pbix
+- visuals/
+  - genre_pie_chart.png
+  - genre_trend_line_chart.png
+  - artist_album_table.png
+  - full_dashboard_screenshot.png
+README.md
+
+---
+
+## 👤 Author
+
+**Maksymilian Leczyk**  
+Data Analyst | Business Analyst | Quality Analyst  
+[LinkedIn](https://www.linkedin.com/in/maksymilian-leczyk/)
+
+---
+
+## 📄 License & Attribution
+
+This project is for educational and portfolio purposes.  
+Dataset originally available from [Kaggle](https://www.kaggle.com/datasets/joebeachcapital/rolling-stones-500-greatest-albums-of-all-time).  
+All rights to album titles and artist names belong to their respective creators.
